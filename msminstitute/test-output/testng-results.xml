@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-13T12:37:39 IST" name="Default suite" finished-at="2022-06-13T12:50:57 IST" duration-ms="798105">
+    <groups>
+    </groups>
+    <test started-at="2022-06-13T12:37:39 IST" name="Default test" finished-at="2022-06-13T12:50:57 IST" duration-ms="798105">
+      <class name="com.msminstitution.endtoend.MSMEndToEnd">
+        <test-method is-config="true" signature="intibase()[pri:0, instance:com.msminstitution.endtoend.MSMEndToEnd@5fbdfdcf]" started-at="2022-06-13T12:37:39 IST" name="intibase" finished-at="2022-06-13T12:37:53 IST" duration-ms="13945" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intibase -->
+        <test-method signature="MSMInstitutionCreationFields()[pri:0, instance:com.msminstitution.endtoend.MSMEndToEnd@5fbdfdcf]" started-at="2022-06-13T12:37:53 IST" name="MSMInstitutionCreationFields" finished-at="2022-06-13T12:39:22 IST" duration-ms="89159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MSMInstitutionCreationFields -->
+        <test-method signature="MSMCampusCreationFields()[pri:1, instance:com.msminstitution.endtoend.MSMEndToEnd@5fbdfdcf]" started-at="2022-06-13T12:39:22 IST" name="MSMCampusCreationFields" finished-at="2022-06-13T12:39:52 IST" duration-ms="30217" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MSMCampusCreationFields -->
+        <test-method signature="CreateInstRegionOfMarketingFields()[pri:2, instance:com.msminstitution.endtoend.MSMEndToEnd@5fbdfdcf]" started-at="2022-06-13T12:39:52 IST" name="CreateInstRegionOfMarketingFields" finished-at="2022-06-13T12:40:05 IST" duration-ms="12800" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateInstRegionOfMarketingFields -->
+        <test-method signature="CreateInstDocumentFlowFields()[pri:3, instance:com.msminstitution.endtoend.MSMEndToEnd@5fbdfdcf]" started-at="2022-06-13T12:40:05 IST" name="CreateInstDocumentFlowFields" finished-at="2022-06-13T12:41:26 IST" duration-ms="80839" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateInstDocumentFlowFields -->
+        <test-method signature="CreateInstApplicationFlowFields()[pri:4, instance:com.msminstitution.endtoend.MSMEndToEnd@5fbdfdcf]" started-at="2022-06-13T12:41:26 IST" name="CreateInstApplicationFlowFields" finished-at="2022-06-13T12:43:12 IST" duration-ms="106250" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateInstApplicationFlowFields -->
+        <test-method signature="CreateProgramFields()[pri:5, instance:com.msminstitution.endtoend.MSMEndToEnd@5fbdfdcf]" started-at="2022-06-13T12:43:12 IST" name="CreateProgramFields" finished-at="2022-06-13T12:50:55 IST" duration-ms="462984" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateProgramFields -->
+        <test-method signature="MSMInstitutionIntakeFields()[pri:6, instance:com.msminstitution.endtoend.MSMEndToEnd@5fbdfdcf]" started-at="2022-06-13T12:50:55 IST" name="MSMInstitutionIntakeFields" finished-at="2022-06-13T12:50:57 IST" duration-ms="1820" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MSMInstitutionIntakeFields -->
+      </class> <!-- com.msminstitution.endtoend.MSMEndToEnd -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
